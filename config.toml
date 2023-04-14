@@ -1,0 +1,8 @@
+
+[general]
+
+	[general.notification]
+		giant_notifications = ""
+		color_picker = "255,0,0,255"
+		notification_color = "255,0,0,255"
+
